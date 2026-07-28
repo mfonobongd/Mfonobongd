@@ -16,13 +16,13 @@ Currently building my foundation in cloud technologies with a focus on Cloud Sec
 
 ## Portfolio
 
-- **[Projects](./projects)** — things I'm building, experimenting with, and learning from.
-- **[Articles](./articles)** — lessons, tutorials, and technical stories from my journey.
-- **[Videos](./videos)** — educational content for developers and tech enthusiasts.
-- **[Talks](./talks)** — speaking engagements, workshops, and knowledge-sharing sessions.
-- **[Community](./community)** — the people, programs, and initiatives I'm privileged to support.
-- **[Achievements](./achievements)** — milestones that mark my growth and progress.
-- **[Research](./research)** — deep dives into cloud security, technology, and developer ecosystems.
+- **[Projects](./Projects)** — things I'm building, experimenting with, and learning from.
+- **[Articles](./Articles)** — lessons, tutorials, and technical stories from my journey.
+- **[Videos](./Videos)** — educational content for developers and tech enthusiasts.
+- **[Talks](./Talks)** — speaking engagements, workshops, and knowledge-sharing sessions.
+- **[Community](./Community)** — the people, programs, and initiatives I'm privileged to support.
+- **[Achievements](./Achievements)** — milestones that mark my growth and progress.
+- **[Research](./Research)** — deep dives into cloud security, technology, and developer ecosystems.
 
 ## Let's Connect
 Email: umondiamfonobong@gmail.com 
